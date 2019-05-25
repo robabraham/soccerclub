@@ -1,0 +1,65 @@
+th{
+    background-color: grey;
+    padding: 5px;
+}
+.ptag{
+    display: inline-block;
+    padding: 5px;
+}
+.namelink{
+    float: left;
+    color: black;
+}
+.namelink:hover{
+    color: white;
+}
+.namelogo{
+    padding: 10px;
+    display: inline-block;
+    position: fixed;
+}
+.ligalogo{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.namelink1{
+    color: black;
+}
+.namelink1:hover{
+    color: black;
+}
+#hometitle{
+    text-align: center;
+    margin: 70px;
+    font-size: 90px;
+}
+#hometitle1{
+    margin: 10px;
+    font-size: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.tableteamlogo{
+    width: 35px;
+    height: 35px;
+}
+.tablelinkname{
+    font-size: 25px;
+}
+.tablelink{
+    color: black;
+}
+.tablelink:hover{
+    color: #767170;
+    transition: 0.1s;
+    text-decoration: underline;
+}
+.homelink{
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+#but{
+    margin: 5px;
+}
